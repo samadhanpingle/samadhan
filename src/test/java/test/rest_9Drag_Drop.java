@@ -8,7 +8,7 @@ import org.openqa.selenium.interactions.Actions;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class rest_9 {
+public class rest_9Drag_Drop {
 
 	public static void main(String[] args) {
 		WebDriverManager.chromedriver().setup();
